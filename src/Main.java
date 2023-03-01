@@ -8,7 +8,8 @@ public class Main {
 
         String s = in.nextLine();
 
-        String output = String.valueOf(s); // Converting Double data to String data
+        // Converting Double data to String data
+        String output = String.valueOf(s);
 
         System.out.println("Double to string conversion: " + output);
     }
