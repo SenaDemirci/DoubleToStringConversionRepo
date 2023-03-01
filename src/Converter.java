@@ -9,8 +9,7 @@ public class Converter {
 
         String s = in.nextLine();
 
-        // Converting Double data to String data
-        String output = String.valueOf(s);
+        String output = String.valueOf(s); // Converting Double data to String data
 
         System.out.println("Double to string conversion: " + output);
 
